@@ -29,8 +29,8 @@ int main() {
     int **B;
     int **C;
 
-    int height = 10;
-    int width = 10;
+    int height = 250;
+    int width = 250;
 
     A = (int**)malloc(sizeof(int*)*height);
     B = (int**)malloc(sizeof(int*)*height);
